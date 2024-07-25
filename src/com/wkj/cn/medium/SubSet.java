@@ -1,4 +1,4 @@
-package com.wkj.cn.subset;
+package com.wkj.cn.medium;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -9,6 +9,7 @@ import java.util.List;
  */
 public class SubSet {
     /**
+     * https://leetcode.cn/problems/subsets/description/
      * 给定一个整数数组 nums ，数组中的元素 互不相同 。返回该数组所有可能子集
      * 解集 不能 包含重复的子集。你可以按 任意顺序 返回解集。
      * 示例 1：
