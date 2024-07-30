@@ -6,7 +6,7 @@ package com.wkj.cn.easy.enity;
  * Definition for a binary tree node.
  */
 public class TreeNode {
-    int val;
+    public int val;
     public TreeNode left;
     public TreeNode right;
 
